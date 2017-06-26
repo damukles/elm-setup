@@ -23,7 +23,7 @@ Extract the zip and copy elm-format.exe to the folder, where the Elm binaries re
 ## Install Visual Studio Code
 
 Download and install Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/download).
-Make sure to check "Add Open with Code action..." during Setup.
+Make sure to check "Add Open with Code action..." during Setup. This allows you to open the entire folder, where you're project is stored.
 
 ![alt text](/img/VSCodeInstall.png "Open with Code action")
 
