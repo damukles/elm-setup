@@ -16,7 +16,7 @@ Download and install the Elm Platform for Windows binaries from [elm-lang.org](h
 
 Download elm-format-0.18-0.7.0-exp-win-i386.zip from [elm-format github](https://github.com/avh4/elm-format/releases/tag/0.7.0-exp).
 
-Copy it to the folder, where the Elm binaries reside, usually:
+Extract the zip and copy elm-format.exe to the folder, where the Elm binaries reside, usually:
 
 ```C:\Program Files (x86)\Elm Platform\0.18\bin```
 
