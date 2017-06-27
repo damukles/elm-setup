@@ -39,7 +39,7 @@ Then, press ```Ctrl+,``` to open the Settings and configure vscode to format you
 
 ![alt text](/img/VSCodeFormat.png "Format on save")
 
-Save your settings.
+Your personal settings will be held in a seperate file (shown on the right). Press ```Ctrl+S``` to save.
 
 ## Finally
 
