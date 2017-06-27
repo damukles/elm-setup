@@ -33,7 +33,7 @@ In Visual Studio Code press ```Ctrl+P``` and type:
 
 ```ext install elm```
 
-Press Enter.
+Press Enter and install the elm extension from the search results.
 
 Then, press ```Ctrl+,``` to open the Settings and configure vscode to format your elm code whenever you save:
 
